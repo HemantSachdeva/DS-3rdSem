@@ -1,3 +1,4 @@
+// Program to find an array element by binary search 
 #include <iostream>
 using namespace std;
 int main() {
